@@ -1,0 +1,39 @@
+.municipio,.estado {
+    cursor: pointer;
+}
+  
+.municipio.active {
+    /* stroke-dasharray: 0.2; */
+    stroke-width: .2;
+    stroke: black;
+}
+
+.municipio:hover {
+    /* stroke-dasharray: 0.2; */
+    stroke-width: .2;
+    stroke: black;
+}
+
+#gstates:hover .estado {
+    fill-opacity: 0.5;
+    fill: grey;
+}
+
+#gstates .estado:hover {
+    fill-opacity: 0;
+}
+
+#gstates:hover .estado.active {
+    fill: none;
+}
+
+.estado.active {
+    fill: none;
+}
+
+.select2-container .select2-choice, .select2-result-label {
+font-size: 1.5em;
+height: 300px; 
+width: 300px;
+overflow: auto;
+}
