@@ -31,38 +31,38 @@ Veja a seção sobre [implantação](https://facebook.github.io/create-react-app
 
 **Note: esta é uma operação única. Uma vez que você executar o `eject`, você não poderá mais voltar!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se você não estiver satisfeito com a ferramenta de construção e com as configurações de escolhas, você pode `eject` a qualquer momento. Este comando irá remover as dependências do build unicamente do seu projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Ao invés disso, ele irá copiar todos os arquivos de configuração e dependências transitivas (Webpack, Babel, ESLint, etc) de dentro de seu projeto, dessa forma você possui o controle total sobre elas. Todos os comandos, exceto `eject`, irão continuar funcionando mas irão apontar para os scripts copiados e então você pode puxá-los. Neste ponto você está por conta própria.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Você não tem que usar o comando `eject`. A funcionalidade curada definem de forma adequada para pequenos, médios ou grandes implantações e você não deve se sentir obrigado a usar esta funcionalidade. De qualquer maneira entendemos que esta ferramenta não deve ser útil se você não puder customizá-la quando estiver pronta para usá-la.
 
-## Learn More
+## Aprenda mais
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Você pode aprender mais em You [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Para aprender React, verifique [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Divisão de Código
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+### Analisando o Tamanho do Pacote
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+### Criando uma Aplicação Web Progressiva
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### Configuração Avançada
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+### Implantação
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### `npm run build` falhou em mimificar
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Esta seção foi movida para cá: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
